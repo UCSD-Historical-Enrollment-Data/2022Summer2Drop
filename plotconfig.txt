@@ -1,0 +1,27 @@
+{
+    "markers": [
+        {
+            'd': ['2022-08-13'],
+            't': 0,
+            'l': 'solid',
+            'c': '#ad0be3',
+            'n': 'Drop (No W) Deadline',
+            's': False
+        },
+        {
+            'd': ['2022-08-20'],
+            't': 0,
+            'l': 'solid',
+            'c': '#20c2d4',
+            'n': 'Drop (W) Deadline',
+            's': False
+        }
+    ],
+    "settings": {
+        "termName": "Summer Session II 2022 Post-Enrollment",
+        "isNormal": False,
+        "showTotal": False,
+        "useEnrolledTtl": True,
+        "useMarkers": True,
+    }
+}
